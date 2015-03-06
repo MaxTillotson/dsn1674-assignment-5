@@ -1,0 +1,7 @@
+.grain-left {
+  width:7%;
+  float: left;
+}
+li:hover{
+  background-color: red;
+}
