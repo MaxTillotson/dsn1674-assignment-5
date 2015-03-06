@@ -35,6 +35,42 @@ h1 {
   margin-right: 0px;
 }
 
+nav li {
+  float: left;
+  text-align: center;
+  display: inline-block;
+  width: 33.33%;
+  border: 1px solid #a93f35;
+  border-left: 0.5px solid #a93f35;
+  padding: 0.5em;
+}
+
+nav ol {
+  overflow: hidden;
+  width: 100%;
+  margin: auto;
+  padding: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.15rem;
+}
+
+li:hover {
+  background-color: #a93f35;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0px;
+}
+
+
 .grain-sacks, .cereals-right, .quinoa-right {
   border: 1px solid #cfcfcf;
 }
