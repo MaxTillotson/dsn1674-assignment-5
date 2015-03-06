@@ -1,7 +1,12 @@
-.grain-left {
-  width:7%;
-  float: left;
+html {
+  background color: #fff;
+  color: #000;
+  box-sizing: border-box;
+  font-family: 'Merriweather';
 }
-li:hover{
-  background-color: red;
+
+header {
+  background-color: #d05c2e;
+  margin: 0px;
+  overflow: hidden;
 }
