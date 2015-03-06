@@ -10,3 +10,27 @@ header {
   margin: 0px;
   overflow: hidden;
 }
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin: 0px;
+  padding-top: 0.5em;
+  font-size: 2rem;
+}
+
+.grain-left {
+  float: left;
+  width: 7%;
+  margin: 15px;
+  border: 0px;
+  margin-left: 0px;
+}
+
+.grain-right {
+  float: right;
+  width: 7%;
+  margin: 15px;
+  border: 0px;
+  margin-right: 0px;
+}
