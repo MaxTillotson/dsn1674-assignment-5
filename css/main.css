@@ -34,3 +34,34 @@ h1 {
   border: 0px;
   margin-right: 0px;
 }
+
+.grain-sacks, .cereals-right, .quinoa-right {
+  border: 1px solid #cfcfcf;
+}
+
+.grain-sacks {
+  float: left;
+  width: 39.5%;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.cereals-right {
+  float: right;
+  width: 40%;
+  margin-top: 0.3em;
+  margin-right: 0.5em;
+  margin-left: 0.3em;
+  padding: 0em;
+
+}
+
+.quinoa-right {
+  float: right;
+  width: 40%;
+  margin: 0.5em;
+  clear: right;
+  padding: 0em;
+}
